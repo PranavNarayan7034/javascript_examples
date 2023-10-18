@@ -1,0 +1,14 @@
+#img1{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+}
+
+#mydiv{
+    position: relative;
+    display: none;
+}
+#closeicon{
+    position: absolute;
+    left: 500px;
+}
