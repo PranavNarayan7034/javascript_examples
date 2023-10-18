@@ -12,3 +12,13 @@
     position: absolute;
     left: 500px;
 }
+
+
+readmore readless style
+
+#para2{
+    display: none;
+}
+#btn2{
+    display: none;
+}
